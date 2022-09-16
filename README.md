@@ -1,4 +1,5 @@
 # Portfolio
+This is a basic portfolio showcasing some of the projects that I've worked on.
 
 Github Repo: 
 
